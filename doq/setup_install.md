@@ -28,7 +28,7 @@ Komplett für  UNIX like OS (MacOS, Linux, Solaris etc.) -> für Wintendo Boxen 
 
 ## Dependencies auflösen
 
-<code><span style="color:green">(.venv)</span> sven@Thanos gesundheit% </code><kbd>pip -r req.txt</kbd>
+<code><span style="color:green">(.venv)</span> sven@Thanos gesundheit% </code><kbd>pip install -r req.txt</kbd>
 
 ## App starten
 Bootstrap starten mit Umlenkung von ```STDIN``` und ```STDOUT``` nach ```dev/null```
